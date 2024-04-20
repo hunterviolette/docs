@@ -12,11 +12,12 @@ operation of reactors.
 - [Process Flow Diagram](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/pfd.png)
 - [Process Configuration File](https://github.com/hunterviolette/24spring/blob/main/che_capstone/cfg.json)
 
-## [Biochemistry Capstone: GPU-enabled Web-Application](https://github.com/hunterviolette/24spring/tree/Kelley-lab)
-Automating segmentation workflow for protein localization analysis in polarized cells utilizing neural 
-networks. Automatic pre-processing by extracting DICT channel from z-stacks in raw image vsi data and 
-ets metadata. Batch model training to quantify model performance and optimize prediction precision and 
-accuracy. Batch predictions of segmented masks for all images in directory.
+## Biochemistry Capstone [GPU-enabled Deep Learning Web-Application](https://github.com/hunterviolette/24spring/tree/Kelley-lab):
+Automating segmentation workflow for protein localization analysis in polarized cells utilizing Cellpose's neural networks
+- Automatic pre-processing by extracting DICT channel from z-stacks in raw image vsi data and ets metadata. 
+- Batch model training to quantify model performance and optimize prediction precision and 
+accuracy. 
+- Batch predictions of segmented masks for all images in directory.
 
 ## [Renewable Energy and Electricity Production](https://github.com/hunterviolette/24spring/tree/main/eet460)
 Overview of renewable energy resources, energy conversion, storage, and transportation.
