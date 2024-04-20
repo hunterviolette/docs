@@ -37,7 +37,7 @@ adjusted journal entries.
 ## Chemical Engineering Economics and Process Design
 - **[Unit 700 Optimization of Ethylene Oxide](https://github.com/hunterviolette/23fall/tree/main/477/etox_proj):** Optimize design of column to separate ethylene oxide from mixture using Aspen Plus for input data.
 - **[Heat Integration using Pinch Technology](https://github.com/hunterviolette/23fall/tree/main/477/pinch_proj):** Iterate over approach temperatures, calculate utility usage for each stream, net utility usage for each hot and cold zone, and identify pinch points.
-- **[Homework](https://github.com/hunterviolette/23fall/tree/main/477/scripts)** I
+- **[Homework](https://github.com/hunterviolette/23fall/tree/main/477/scripts)**
 
 ## Chemical Engineering Process Analysis, Steady-State Process Simulation, Process Synthesis
 - **[Level One Project](https://github.com/hunterviolette/23fall/tree/main/478/LevelOneProj):**  Close the material balance, calculate component mole and mass fractions, and calculate stream enthalpies to determine total heat loss.
@@ -48,7 +48,7 @@ adjusted journal entries.
 Unit operations course with emphasis on equilibrium stage operations involving interphase mass transfer 
 such as absorption, distillation, drying, absorption, and filtration.
 - **[Distillation Project](https://github.com/hunterviolette/CHE362/tree/master/distillation_proj):** Optimize distillation column design to separate binary mixture using Aspen Plus for chemical process data.
-- **[Exams/Homework](https://github.com/hunterviolette/CHE362/tree/master/scripts)** I
+- **[Exams/Homework](https://github.com/hunterviolette/CHE362/tree/master/scripts)**
 
 
 # 2023 Spring
