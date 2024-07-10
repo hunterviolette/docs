@@ -1,6 +1,6 @@
 # 2024 Spring
 
-## [Chemical Process Simulator](https://github.com/hunterviolette/24spring/tree/main/che_capstone)
+## [Chemical Process Simulator](https://github.com/hunterviolette/24spring/tree/simulator)
 Simulate flows through stoichiometric reactors, separators, and electrolyzers with inputs, recycles, 
 and dependent-flow streams. Converge flows to steady-state and steady-state set-point. Overall 
 steady-state material balance. Perform thermodynamic calculations of temperature and pressure dependent 
