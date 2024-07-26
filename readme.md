@@ -10,7 +10,7 @@ operation of reactors.
 ## Chemical Engineering Capstone
 ### Design and economic analysis of modular distributed ammonia electrosynthesis process
 - [Process Flow Diagram](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/pfd.png)
-- [Process Configuration File](https://github.com/hunterviolette/24spring/blob/main/che_capstone/cfg.json)
+- [Process Configuration File](https://github.com/hunterviolette/24spring/blob/main/che_capstone/configs/ammonia_electrosynthesis.json)
 
 ## Biochemistry Capstone [GPU-enabled Deep Learning Web-Application](https://github.com/hunterviolette/24spring/tree/Kelley-lab):
 Automating segmentation workflow for protein localization analysis in polarized cells utilizing Cellpose's neural networks
