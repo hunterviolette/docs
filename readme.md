@@ -5,7 +5,14 @@ Simulate flows through stoichiometric reactors, separators, and electrolyzers wi
 and dependent-flow streams. Converge flows to steady-state and steady-state set-point. Overall 
 steady-state material balance. Perform thermodynamic calculations of temperature and pressure dependent 
 mixtures using equations of state to calculate heat of reaction and overall heat duty for adiabatic 
-operation of reactors.
+operation of reactors
+
+Develop, simulate, and optimize [chemical processes](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/pfd.png) by creating [configuration files](https://github.com/hunterviolette/24spring/blob/main/che_capstone/configs/ammonia_electrosynthesis.json) that outline the execution order and conditions of reaction and separation units operations to analyze chemical processes 
+-	Retrieve chemical property data from [ChemPy](https://pythonhosted.org/chempy/).
+-	Obtain thermodynamic property data and perform thermodynamic computations utilizing [cubic equations of state](https://thermo.readthedocs.io/thermo.eos_mix.html#redlich-kwong-equation-of-state) for single and multi-component mixtures from [Thermo](https://thermo.readthedocs.io/).
+-	Iterate through [unit operations](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/sim_pfd.png) in process to determine the input and output flow rates.
+-	Iterate through entire process multiple times for steady-state analysis 
+
 
 ## Chemical Engineering Capstone
 ### Design and economic analysis of modular distributed ammonia electrosynthesis process
@@ -13,19 +20,15 @@ operation of reactors.
 - [Process Configuration File](https://github.com/hunterviolette/24spring/blob/main/che_capstone/configs/ammonia_electrosynthesis.json)
 
 ## Biochemistry Capstone [GPU-enabled Deep Learning Web-Application](https://github.com/hunterviolette/24spring/tree/Kelley-lab):
-Automating segmentation workflow for protein localization analysis in polarized cells utilizing Cellpose's neural networks
-- Automatic pre-processing by extracting DICT channel from z-stacks in raw image vsi data and ets metadata. 
-- Batch model training to quantify model performance and optimize prediction precision and 
-accuracy. 
-- Batch predictions of segmented masks for all images in directory.
+Computer vision solution to streamline the segmentation of microscopy data using pre-trained U-Net models. This project provides a comprehensive workflow for training, evaluating, and deploying U-Net models to accurately and efficiently segment microscopy data
+
+## [QuickBooks Online Reader](https://github.com/hunterviolette/QBO-Reader)
+-	Utilizes the QuickBooks API to retrieve ledger, chart of accounts, and journal entries to construct a general ledger for single or multi-entity companies.
+-	Leverages the general ledger to generate profit and loss statements, cash flow statements, and a variety of customized reports and visualizations.
+-	Employs the general ledger to conduct cost segmentation analysis of a cultivation facility, calculating profitability metrics on discounted and non-discounted basis
 
 ## [Renewable Energy and Electricity Production](https://github.com/hunterviolette/24spring/tree/main/eet460)
 Overview of renewable energy resources, energy conversion, storage, and transportation.
-
-## [QuickBooks Online Reader](https://github.com/hunterviolette/QBO-Reader)
-Base class for reading QuickBooks Online bank feed registers for generating financial statements, 
-analyzing broad and specific details within corporate books, and creating transparent programmatic 
-adjusted journal entries.
 
 # 2023 Fall
 
