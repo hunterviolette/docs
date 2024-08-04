@@ -1,18 +1,11 @@
 # 2024 Spring
 
 ## [Chemical Process Simulator](https://github.com/hunterviolette/24spring/tree/simulator)
-Simulate flows through stoichiometric reactors, separators, and electrolyzers with inputs, recycles, 
-and dependent-flow streams. Converge flows to steady-state and steady-state set-point. Overall 
-steady-state material balance. Perform thermodynamic calculations of temperature and pressure dependent 
-mixtures using equations of state to calculate heat of reaction and overall heat duty for adiabatic 
-operation of reactors
-
 Develop, simulate, and optimize [chemical processes](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/pfd.png) by creating [configuration files](https://github.com/hunterviolette/24spring/blob/main/che_capstone/configs/ammonia_electrosynthesis.json) that outline the execution order and conditions of reaction and separation units operations to analyze chemical processes 
--	Retrieve chemical property data from [ChemPy](https://pythonhosted.org/chempy/).
--	Obtain thermodynamic property data and perform thermodynamic computations utilizing [cubic equations of state](https://thermo.readthedocs.io/thermo.eos_mix.html#redlich-kwong-equation-of-state) for single and multi-component mixtures from [Thermo](https://thermo.readthedocs.io/).
--	Iterate through [unit operations](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/sim_pfd.png) in process to determine the input and output flow rates.
--	Iterate through entire process multiple times for steady-state analysis 
-
+- Retrieve chemical property data from [ChemPy](https://pythonhosted.org/chempy/).
+- Simulate flows through stoichiometric reactors, separators, and electrolyzers with inputs, recycles, and dependent-flow streams.
+- Converge flows to steady-state and steady-state set-point with overall steady-state material balance.
+- Perform thermodynamic calculations of temperature and pressure dependent mixtures using [cubic equations of state](https://thermo.readthedocs.io/thermo.eos_mix.html#redlich-kwong-equation-of-state) for single and multi-component mixtures from [Thermo](https://thermo.readthedocs.io/) for adiabatic operation of reactors
 
 ## Chemical Engineering Capstone
 ### Design and economic analysis of modular distributed ammonia electrosynthesis process
