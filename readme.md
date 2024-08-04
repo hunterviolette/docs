@@ -17,7 +17,7 @@ Computer vision solution to streamline the segmentation of microscopy data using
 
 ## [QuickBooks Online Reader](https://github.com/hunterviolette/QBO-Reader)
 -	Utilizes the QuickBooks API to retrieve ledger, chart of accounts, and journal entries to construct a general ledger for single or multi-entity companies.
--	Leverages the general ledger to generate profit and loss statements, cash flow statements, and a variety of customized reports and visualizations.
+-	Uses the general ledger to generate profit and loss statements, cash flow statements, and a variety of customized reports and visualizations.
 -	Employs the general ledger to conduct cost segmentation analysis of a cultivation facility, calculating profitability metrics on discounted and non-discounted basis
 
 ## [Renewable Energy and Electricity Production](https://github.com/hunterviolette/24spring/tree/main/eet460)
