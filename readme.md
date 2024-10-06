@@ -5,7 +5,7 @@ Develop, simulate, and optimize [chemical processes](https://github.com/huntervi
 - Retrieve chemical property data from [ChemPy](https://pythonhosted.org/chempy/).
 - Simulate flows through stoichiometric reactors, separators, and electrolyzers with inputs, recycles, and dependent-flow streams.
 - Converge flows to steady-state and steady-state set-point with overall steady-state material balance.
-- Perform thermodynamic calculations of temperature and pressure dependent mixtures using [cubic equations of state](https://thermo.readthedocs.io/thermo.eos_mix.html#redlich-kwong-equation-of-state) for single and multi-component mixtures from [Thermo](https://thermo.readthedocs.io/).
+- Perform thermodynamic calculations of temperature and pressure dependent mixtures using [cubic equations of state](https://thermo.readthedocs.io/thermo.eos_mix.html#srk-translated) for single and multi-component mixtures from [Thermo](https://thermo.readthedocs.io/).
 
 ## Chemical Engineering Capstone
 ### Design and economic analysis of modular distributed ammonia electrosynthesis process
