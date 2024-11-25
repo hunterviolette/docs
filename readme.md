@@ -1,11 +1,7 @@
 # 2024 Spring
 
 ## [Chemical Process Simulator](https://github.com/hunterviolette/24spring/tree/simulator)
-<<<<<<< HEAD
-Develop, simulate, and optimize [chemical processes](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/pfd.png) by creating [configuration files](https://github.com/hunterviolette/24spring/blob/main/che_capstone/configs/ammonia_electrosynthesis.json) that outline the execution order and conditions of reaction and separation [units operations](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/sim_pfd.png) to analyze chemical processes 
-=======
 Develop, simulate, and optimize [chemical processes](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/pfd.png) by creating [configuration files](https://github.com/hunterviolette/24spring/blob/main/che_capstone/configs/ammonia_electrosynthesis.json) that outline the execution order and conditions of reaction and separation [units operations](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/sim_pfd.png).
->>>>>>> 251c85342e73bec75b1a3696a2665856695611fe
 - Simulate flows through stoichiometric reactors, separators, and electrolyzers with inputs, recycles, and dependent-flow streams.
 - Converge flows to steady-state and steady-state set-point with overall steady-state material balance.
 - Perform thermodynamic calculations of temperature and pressure dependent mixtures using [cubic equations of state](https://thermo.readthedocs.io/thermo.eos_mix.html#srk-translated) for single and multi-component mixtures from [Thermo](https://thermo.readthedocs.io/).
