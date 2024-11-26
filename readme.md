@@ -1,5 +1,7 @@
-# 2024 Spring
+### Check out some of my favorite files across the repositories [here](https://github.com/hunterviolette/docs/blob/main/favorite_files.md)
+##
 
+# 2024 Spring
 ## [Chemical Process Simulator](https://github.com/hunterviolette/24spring/tree/simulator)
 Develop, simulate, and optimize [chemical processes](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/pfd.png) by creating [configuration files](https://github.com/hunterviolette/24spring/blob/main/che_capstone/configs/ammonia_electrosynthesis.json) that outline the execution order and conditions of reaction and separation [units operations](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/sim_pfd.png).
 - Simulate flows through stoichiometric reactors, separators, and electrolyzers with inputs, recycles, and dependent-flow streams.
@@ -13,6 +15,8 @@ Develop, simulate, and optimize [chemical processes](https://github.com/huntervi
 
 ## Biochemistry Capstone: [GPU-enabled Deep Learning Web-Application](https://github.com/hunterviolette/24spring/tree/Kelley-lab):
 Developed a computer vision solution to exponentially enhance segmentation efficiency of microscopy data leveraging pre-trained UNet models. The project established a comprehensive workflow for training, evaluating, and deploying U-Net architectures, enabling precise and efficient batch segmentation of microscopy datasets
+
+- [Example video](https://youtu.be/auEXBbj1-G0) uploading and predicting raw micrscopy data
 
 ## [QuickBooks Online Reader](https://github.com/hunterviolette/QBO-Reader)
 - Queries QuickBooks API to retrieve ledger, chart of accounts, and journal entries to construct a general ledger for single or
