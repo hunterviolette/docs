@@ -1,10 +1,13 @@
+# 2024 Spring
+
 ## [Chemical Process Simulation App](https://github.com/hunterviolette/24spring/tree/simulator)
+A foundational chemical process simulator designed to calculate steady-state flows and built to easily incorporate additional process thermodynamics and complexity. Built over 2024 spring break, this simulator focuses on iterative flow convergence and thermodynamic modeling
 
-- [core.py](https://github.com/hunterviolette/24spring/blob/simulator/crate/src/steady_state.py)
+- [core.py](https://github.com/hunterviolette/24spring/blob/simulator/crate/src/steady_state.py): Computes flows through unit operations and applies process thermodynamics to evaluate unit performance and overall flow behavior.
 
-- [steady_state.py](https://github.com/hunterviolette/24spring/blob/simulator/crate/src/steady_state.py)
+- [steady_state.py](https://github.com/hunterviolette/24spring/blob/simulator/crate/src/steady_state.py): Converges flows iteratively. If convergence is achieved, iterates until reaching steady-state flow set-point.
 
-- webpages in [```crate/pages```](https://github.com/hunterviolette/24spring/tree/simulator/crate/pages): Allow users to fully interface with the simulator from generated web application
+- webpages in [crate/pages](https://github.com/hunterviolette/24spring/tree/simulator/crate/pages): Provides a user-friendly interface for interacting with the simulator via a generated web application.
 
 ## [Microscopy Segmentation App](https://github.com/hunterviolette/24spring/tree/simulator)
 
@@ -13,5 +16,10 @@
 
 - [core.py](https://github.com/hunterviolette/24spring/blob/Kelley-lab/src/pages/util/core.py): Train and evaluate U-net models for micrscopy segmenation
 
-- webpages in [```src/pages```](https://github.com/hunterviolette/24spring/tree/Kelley-lab/src/pages): Allow users to fully interface with [core.py](https://github.com/hunterviolette/24spring/blob/Kelley-lab/src/pages/util/core.py) from generated web application
+- webpages in [src/pages](https://github.com/hunterviolette/24spring/tree/Kelley-lab/src/pages): Allow users to fully interface with [core.py](https://github.com/hunterviolette/24spring/blob/Kelley-lab/src/pages/util/core.py) from generated web application
 
+# 2023 Fall
+
+
+## [Simulation Project One](https://github.com/hunterviolette/23fall/blob/main/478/LevelOneProj/README.md)
+Programmatic [solution](https://github.com/hunterviolette/23fall/blob/main/478/LevelOneProj/lvl1_balance.py) to a [chemical engineering simulation problem](https://github.com/hunterviolette/23fall/blob/main/478/LevelOneProj/Problem_Statement.pdf)
