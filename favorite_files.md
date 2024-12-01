@@ -10,6 +10,7 @@ A foundational chemical process simulator designed to calculate steady-state flo
 - webpages in [crate/pages](https://github.com/hunterviolette/24spring/tree/simulator/crate/pages): Provides a user-friendly interface for interacting with the simulator via a generated web application.
 
 ## [Microscopy Segmentation App](https://github.com/hunterviolette/24spring/tree/simulator)
+Developed a computer vision solution to exponentially enhance segmentation efficiency of microscopy data leveraging pre-trained U-Net models. The project established a comprehensive workflow for training, evaluating, and deploying U-Net architectures, enabling precise and efficient batch segmentation of microscopy datasets
 
 
 [Example video](https://youtu.be/auEXBbj1-G0) uploading and predicting raw micrscopy data
