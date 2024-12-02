@@ -1,7 +1,7 @@
 # 2024 Spring
 
 ## [Chemical Process Simulation App](https://github.com/hunterviolette/24spring/tree/simulator)
-A foundational chemical process simulator designed to calculate steady-state flows and built to easily incorporate additional process thermodynamics and complexity. Built over 2024 spring break, this simulator focuses on iterative flow convergence and thermodynamic modeling
+A foundational chemical process simulator designed to calculate steady-state flows and easily incorporate additional complexity. Built over 2024 spring break, this simulator focuses on iterative flow convergence and thermodynamic modeling
 
 - [core.py](https://github.com/hunterviolette/24spring/blob/simulator/crate/src/steady_state.py): Computes flows through unit operations and applies process thermodynamics to evaluate unit performance and overall flow behavior.
 
