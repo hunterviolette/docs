@@ -51,7 +51,7 @@ measurement variability and model reliability.
 
 ## Chemical Engineering Unit Operations II
 Unit operations course with emphasis on equilibrium stage operations involving interphase mass transfer 
-such as absorption, distillation, drying, absorption, and filtration.
+such as absorption, distillation, drying, adsorption, and filtration.
 - **[Distillation Project](https://github.com/hunterviolette/CHE362/tree/master/distillation_proj):** Optimize distillation column design to separate binary mixture using Aspen Plus for chemical process data.
 - **[Exams/Homework](https://github.com/hunterviolette/CHE362/tree/master/scripts)**
 
