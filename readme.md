@@ -1,10 +1,11 @@
 # 2026
-## [ModernDev](https://github.com/hunterviolette/ModernDev)
+## [ModernDev](https://github.com/hunterviolette/ModernDev):
+A modern development workflow application designed to progressively automate complex system development through increasing levels of orchestration and reduced manual intervention.
 
+# 2024 Spring
 
  Check out some of my favorite files across the repositories from 2023-2024 [here](https://github.com/hunterviolette/docs/blob/main/favorite_files.md)
 
-# 2024 Spring
 ## [Chemical Process Simulator](https://github.com/hunterviolette/24spring/tree/simulator)
 Develop, simulate, and optimize [chemical processes](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/pfd.png) by creating [configuration files](https://github.com/hunterviolette/24spring/blob/main/che_capstone/configs/ammonia_electrosynthesis.json) that outline the execution order and conditions of reaction and separation [units operations](https://github.com/hunterviolette/24spring/blob/main/che_capstone/assets/sim_pfd.png).
 - Simulate flows through stoichiometric reactors, separators, and electrolyzers with inputs, recycles, and dependent-flow streams.
